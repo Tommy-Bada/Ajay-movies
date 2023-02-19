@@ -1,6 +1,8 @@
 .search-container{
     margin: 2rem;
 }
+@media (max-width: 768px){
 .movie-search{
     color: white;
+}
 }
